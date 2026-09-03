@@ -6,7 +6,8 @@
   <title>Dubai Dune Rental Tour | No License? Age Rules & Costs</title>
   <meta name="description" content="Plan your Dubai dune rental tour. No license is needed for self-drive buggies. Learn age limits, safety rules, and family tips for a safe desert adventure.">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://dubai-dune-buggy-tour.onrender.com/">
+  <meta name="google-site-verification" content="GPvlFb7SYAa6VLOyc09DDTLk_HAS4vn7_VpLUzituyE" />
+  <link rel="canonical" href="https://dubai-dune-rental-tour-8248b52eea7d.herokuapp.com/">
   
   <!-- Fonts & Icons -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
